@@ -1,0 +1,13 @@
+nav ul{
+    display:flex;
+    /* margin: 10%;
+    padding: 10%; */
+    /* justify-content: space-between; */
+    /* background-color: aqua; */
+    
+}
+
+li {
+    margin: 10%;
+    padding: 10%;
+}
